@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 
 int main() 
@@ -24,3 +25,11 @@ int main()
     } else { 
         printf("%d is greatest.",d); 
     } 
+=======
+#include<stdio.h>
+
+int main(){
+    
+    return(0);
+}
+>>>>>>> f53dac51808840395176839785d71f521693ba11

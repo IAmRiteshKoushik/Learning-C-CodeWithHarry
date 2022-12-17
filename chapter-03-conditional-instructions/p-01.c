@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 
 int main(){
@@ -19,3 +20,11 @@ int main(){
 // block. That is becuase it is allowed to run a single link of if-else
 // without adding curly brackets. But in an event where there is a bigger 
 // code block then curly brackets is a must or else it will throw error.
+=======
+#include<stdio.h>
+
+int main(){
+    
+    return(0);
+}
+>>>>>>> f53dac51808840395176839785d71f521693ba11

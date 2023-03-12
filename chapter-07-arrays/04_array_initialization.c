@@ -12,6 +12,5 @@ int main(){
     printf("The value of a[0] is %f\n", arr2[0]);
     printf("The value of a[0] is %f\n", arr2[1]);
     printf("The value of a[0] is %f\n", arr2[2]);
-
     return(0);
 }

@@ -1,2 +1,5 @@
 # Files to ignore
 Learning-C-CodeWithHarry/C-book.pdfC-book.pdf
+
+# Ignore binary files
+.out

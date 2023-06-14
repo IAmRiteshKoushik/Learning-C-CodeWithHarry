@@ -20,6 +20,7 @@ int main(){
         default:
             val = atoi(card_name);
     }
+    
     printf("%d\n", val);
     return(0);
 }
